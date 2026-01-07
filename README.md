@@ -8,4 +8,4 @@ This repository contains my BSc Honours Physics thesis titled:
 
 The project involved computational simulations of interferometric observations using CASA, followed by data extraction, analysis, and visualisation using Python.
 
-The thesis is provided as a compressed archive due to GitHub file size limits.
+The thesis is provided as a pdf of reduce quality to comply with GitHub's file size limits.
